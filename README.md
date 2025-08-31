@@ -37,4 +37,3 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PamelaSilva-Tech/PamelaSilva-Tech/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
