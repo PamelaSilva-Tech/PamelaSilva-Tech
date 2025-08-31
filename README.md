@@ -12,7 +12,7 @@
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 
-  🤖 Linguagens e Tecnologia
+  <h3 align="left">🤖 Linguagens e Tecnologia</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="PamelaSilva_Tech-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,6 +23,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+   <h3 align="left">👩‍💻Connect with me!</h3>
+   
 <div> 
   <a href="https://www.instagram.com/pha_silvaa?igsh=cnRibTY4ZnZ6eXVy"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/gccM3bug" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
