@@ -30,8 +30,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <a href="https://www.linkedin.com/in/pamela-oliveira-silva-489963349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PamelaSilva-Tech">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PamelaSilva-Tech">
-  <img align="center" alt="github contribution grid snake animation" src="https://github.com/PamelaSilva-Tech">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PamelaSilva-Tech/PamelaSilva-Tech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PamelaSilva-Tech/PamelaSilva-Tech/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PamelaSilva-Tech/PamelaSilva-Tech/output/github-contribution-grid-snake.svg">
 </picture>
   
